@@ -7,15 +7,15 @@ This application also provides dedicated functionalities for Candidates and Admi
 ------------------------------------------------------------------------------------------------------------------------------------
 Features
 👤 Voter Module
-Secure login authentication
-View available elections
-Select and vote for a candidate
-Automatic logout after voting
-Prevents multiple voting attempts
+*Secure login authentication,  
+*View available elections,   
+*Select and vote for a candidate,   
+*Automatic logout after voting,   
+*Prevents multiple voting attempts.   
 ---------------------------------
 🧑‍💼 Candidate Module
-View elections they are participating in
-View list of candidates in a particular election
+# View elections they are participating in.
+# View list of candidates in a particular election
 ------------------------------------------------
 🛠️ Admin Module
 Full control over system data
